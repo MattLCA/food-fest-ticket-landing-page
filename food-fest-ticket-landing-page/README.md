@@ -40,3 +40,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![Screenshot of the interface](image.png)
